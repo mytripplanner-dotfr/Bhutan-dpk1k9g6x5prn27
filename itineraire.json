@@ -1,0 +1,244 @@
+{
+  "pays": "Bhoutan",
+  "drapeau": "🇧🇹",
+  "symbole": "🐉",
+  "titre": "Bhoutan: L'Éveil Spirituel au Pays du Dragon",
+  "budget_total": "5400€",
+  "duree": "6 jours",
+  "date_debut": "2026-01-15",
+  "date_fin": "2026-01-21",
+  "temps_vol": "Environ 30-40h depuis Gillett, etats unis avec escales"
+  ,
+  "jours": [
+    {
+      "jour": 1,
+      "symbole": "🛬",
+      "titre": "Arrivée à Paro et Transfert à Thimphu",
+      "legende": "Après un long voyage, l'atterrissage à Paro offre une première immersion spectaculaire dans les paysages himalayens. La route vers Thimphu, la capitale, est une douce introduction à la sérénité bhoutanaise, permettant de s'acclimater en douceur à l'altitude et à l'atmosphère unique du pays. Prenez le temps de vous installer et de ressentir l'énergie paisible des lieux.",
+      "lieu": "Paro / Thimphu",
+      "activites": [
+        "🛬 <strong>Arrivée à l'aéroport de Paro (PBH)</strong>: Votre vol atterrira dans l'unique aéroport international du Bhoutan, niché au cœur d'une vallée pittoresque. Profitez des vues imprenables sur les montagnes dès votre approche.",
+        "🚗 <strong>Transfert vers Thimphu</strong>: Un trajet scénique d'environ 1h30 vous mènera à Thimphu, la capitale. Admirez les paysages verdoyants et les maisons traditionnelles qui jalonnent la route.",
+        "🚶‍♂️ <strong>Balade légère dans le centre de Thimphu</strong>: Après l'installation à l'hôtel, une courte promenade vous permettra de découvrir l'ambiance locale et les premières impressions de cette capitale sans feux de circulation."
+      ],
+      "illustration": "jour1.jpg",
+      "encarts": [
+        {
+          "symbole": "ℹ️",
+          "titre": "Altitude",
+          "texte": "Thimphu est à environ 2 320 mètres d'altitude. Hydratez-vous bien et allez-y doucement le premier jour pour éviter le mal des montagnes."
+        },
+        {
+          "symbole": "🛂",
+          "titre": "Formalités",
+          "texte": "Assurez-vous d'avoir votre visa bhoutanais imprimé et votre passeport valide. Les formalités à l'arrivée sont généralement rapides."
+        }
+      ]
+    },
+    {
+      "jour": 2,
+      "symbole": "🙏",
+      "titre": "Immersion Culturelle à Thimphu",
+      "legende": "Plongez au cœur de la culture bhoutanaise en explorant les sites emblématiques de Thimphu. Entre spiritualité, artisanat et panoramas grandioses, cette journée vous offrira un aperçu profond des traditions et de la philosophie du Pays du Dragon. Laissez-vous imprégner par la sérénité des lieux et la gentillesse des habitants.",
+      "lieu": "Thimphu",
+      "activites": [
+        "🧘 <strong>Visite du Buddha Dordenma</strong>: Admirez cette immense statue de Bouddha dominant la vallée de Thimphu, offrant des vues panoramiques spectaculaires. C'est un lieu de méditation et de contemplation puissant.",
+        "📜 <strong>Exploration du Mémorial Chorten</strong>: Ce stupa emblématique est un lieu de culte central pour les Bhoutanais, qui viennent y faire des circumambulations et prier. Observez les rituels locaux et l'architecture sacrée.",
+        "🎨 <strong>Découverte de l'École d'Artisanat (Zorig Chusum)</strong>: Observez les étudiants perpétuer les 13 arts et métiers traditionnels du Bhoutan, de la peinture à la sculpture sur bois. C'est une fenêtre fascinante sur l'héritage artistique du pays."
+      ],
+      "illustration": "jour2.jpg",
+      "encarts": [
+        {
+          "symbole": "📸",
+          "titre": "Photographie",
+          "texte": "Demandez toujours la permission avant de photographier les personnes, surtout dans les lieux de culte. Certains intérieurs de temples sont interdits à la photographie."
+        },
+        {
+          "symbole": "👗",
+          "titre": "Tenue vestimentaire",
+          "texte": "Prévoyez des vêtements modestes (épaules et genoux couverts) pour la visite des monastères et dzongs par respect pour les lieux sacrés."
+        }
+      ]
+    },
+    {
+      "jour": 3,
+      "symbole": "⛰️",
+      "titre": "Passage des Cols et Vallée de Punakha",
+      "legende": "Aujourd'hui, l'itinéraire vous mène à travers des paysages montagneux époustouflants, franchissant le col de Dochula orné de 108 stupas. La descente vers Punakha révèle une vallée plus chaude et luxuriante, abritant l'un des plus beaux dzongs du Bhoutan. C'est une journée riche en contrastes, entre sommets enneigés et rizières verdoyantes.",
+      "lieu": "Thimphu / Punakha",
+      "activites": [
+        "🏔️ <strong>Traversée du col de Dochula</strong>: Arrêtez-vous à ce col emblématique (3 100m) pour admirer les 108 stupas et, par temps clair, une vue panoramique sur les sommets himalayens. C'est un moment de pure contemplation.",
+        "🏰 <strong>Visite du Punakha Dzong</strong>: Ce \"Palais du Grand Bonheur\" est considéré comme le plus beau dzong du Bhoutan, situé majestueusement à la confluence de deux rivières. Son architecture et son histoire sont captivantes.",
+        " fertility <strong>Randonnée à Chimi Lhakhang</strong>: Marchez à travers les rizières jusqu'au \"Temple de la Fertilité\", dédié au \"Fou Divin\". C'est une balade agréable et une immersion dans les croyances populaires bhoutanaises."
+      ],
+      "illustration": "jour3.jpg",
+      "encarts": [
+        {
+          "symbole": "🌡️",
+          "titre": "Climat",
+          "texte": "Punakha est à une altitude plus basse (1 200m) et est donc plus chaude que Thimphu. Prévoyez des couches de vêtements pour vous adapter aux variations de température."
+        },
+        {
+          "symbole": "🚗",
+          "titre": "Route",
+          "texte": "La route entre Thimphu et Punakha est sinueuse mais offre des vues magnifiques. Prévoyez environ 3 heures de trajet, pauses incluses."
+        }
+      ]
+    },
+    {
+      "jour": 4,
+      "symbole": "🏞️",
+      "titre": "Retour vers Paro et Découverte Locale",
+      "legende": "Après avoir exploré la vallée de Punakha, le chemin du retour vers Paro offre de nouvelles perspectives sur les paysages bhoutanais. Cette journée est l'occasion de s'imprégner davantage de la vie locale, de visiter des sites moins connus et de profiter de la tranquillité des vallées. C'est une transition douce avant l'ascension emblématique du lendemain.",
+      "lieu": "Punakha / Paro",
+      "activites": [
+        "🌉 <strong>Pont suspendu de Punakha</strong>: Traversez l'un des plus longs ponts suspendus du Bhoutan, offrant des vues imprenables sur la rivière Mo Chhu et les paysages environnants. C'est une expérience à la fois excitante et pittoresque.",
+        "🛍️ <strong>Exploration du marché local de Paro</strong>: Flânez dans les rues de Paro et découvrez son marché. C'est une excellente occasion d'observer la vie quotidienne et de trouver des souvenirs authentiques.",
+        "🏛️ <strong>Visite du Paro Dzong (Rinpung Dzong)</strong>: Ce \"Fort sur un tas de bijoux\" est un chef-d'œuvre architectural et un centre administratif et monastique important. Ses murs imposants racontent des siècles d'histoire."
+      ],
+      "illustration": "jour4.jpg",
+      "encarts": [
+        {
+          "symbole": "🎁",
+          "titre": "Souvenirs",
+          "texte": "Le Bhoutan est réputé pour ses textiles tissés à la main, ses masques en bois et ses objets religieux. N'hésitez pas à négocier poliment dans les marchés."
+        },
+        {
+          "symbole": "🚶‍♀️",
+          "titre": "Marche",
+          "texte": "Paro est une ville agréable à explorer à pied. Prévoyez des chaussures confortables pour les balades et les visites."
+        }
+      ]
+    },
+    {
+      "jour": 5,
+      "symbole": "🐅",
+      "titre": "L'Ascension du Nid du Tigre",
+      "legende": "Aujourd'hui est dédié à l'aventure la plus emblématique du Bhoutan: la randonnée jusqu'au monastère de Taktsang, le \"Nid du Tigre\". Accroché à une falaise vertigineuse, ce site sacré offre non seulement une expérience spirituelle profonde mais aussi des vues à couper le souffle. C'est un défi physique récompensé par une beauté et une sérénité inégalées.",
+      "lieu": "Paro",
+      "activites": [
+        "⛰️ <strong>Randonnée au Monastère de Taktsang (Nid du Tigre)</strong>: Préparez-vous pour une randonnée exigeante mais incroyablement gratifiante jusqu'à ce monastère iconique. Le sentier serpente à travers des forêts de pins et offre des vues spectaculaires à chaque tournant.",
+        "🙏 <strong>Exploration du Nid du Tigre</strong>: Une fois arrivé, découvrez les temples sacrés et imprégnez-vous de l'atmosphère mystique de ce lieu où Guru Rinpoche aurait médité. C'est une expérience spirituelle inoubliable.",
+        "☕ <strong>Pause au café de la falaise</strong>: À mi-chemin de la randonnée, un café offre une vue imprenable sur le monastère. C'est l'endroit idéal pour reprendre des forces et admirer le paysage."
+      ],
+      "illustration": "jour5.jpg",
+      "encarts": [
+        {
+          "symbole": "👟",
+          "titre": "Équipement",
+          "texte": "Portez de bonnes chaussures de marche, apportez de l'eau, des snacks et un bâton de randonnée peut être utile. La montée prend environ 2-3 heures."
+        },
+        {
+          "symbole": "🐎",
+          "titre": "Option",
+          "texte": "Pour ceux qui le souhaitent, il est possible de monter à cheval jusqu'au café de la falaise, puis de continuer à pied. Le retour se fait toujours à pied."
+        },
+        {
+          "symbole": "💧",
+          "titre": "Hydratation",
+          "texte": "L'effort en altitude demande une bonne hydratation. Buvez régulièrement de l'eau tout au long de la randonnée."
+        }
+      ]
+    },
+    {
+      "jour": 6,
+      "symbole": "🕊️",
+      "titre": "Découverte de la Vallée de Paro et Départ",
+      "legende": "Pour cette dernière journée, profitez des dernières merveilles de la vallée de Paro avant votre départ. Visitez des sites historiques et spirituels qui témoignent de la richesse culturelle du Bhoutan. C'est l'occasion de faire vos derniers adieux à ce pays enchanteur, emportant avec vous des souvenirs impérissables de sa beauté et de sa sérénité.",
+      "lieu": "Paro",
+      "activites": [
+        "🏛️ <strong>Visite du Musée National du Bhoutan</strong>: Installé dans une ancienne tour de guet (Ta Dzong), ce musée abrite une collection fascinante d'artefacts bhoutanais, d'œuvres d'art et de reliques. C'est une excellente introduction à l'histoire du pays.",
+        "🙏 <strong>Exploration du Kyichu Lhakhang</strong>: L'un des plus anciens et des plus sacrés temples du Bhoutan, fondé au 7ème siècle. Son atmosphère paisible et ses légendes en font un lieu de recueillement unique.",
+        "🛫 <strong>Départ de l'aéroport de Paro</strong>: Après ces jours riches en découvertes, il est temps de prendre votre vol retour depuis l'aéroport de Paro, avec des souvenirs plein la tête."
+      ],
+      "illustration": "jour6.jpg",
+      "encarts": [
+        {
+          "symbole": "⏰",
+          "titre": "Heure de départ",
+          "texte": "Les vols depuis Paro sont souvent le matin. Prévoyez d'arriver à l'aéroport au moins 2 heures avant l'heure de votre vol."
+        },
+        {
+          "symbole": "💰",
+          "titre": "Monnaie",
+          "texte": "La monnaie locale est le Ngultrum (BTN), indexé sur la roupie indienne. Les USD sont également acceptés dans de nombreux endroits."
+        }
+      ]
+    }
+  ],
+  "detail_budget": [
+    {
+      "titre": "Budget vol:",
+      "legende": "3000€/pers (Vol aller-retour Gillett, US - Paro, Bhoutan en classe économique avec escales)",
+      "symbole": "🛬"
+    },
+    {
+      "titre": "Budget transports:",
+      "legende": "750€/pers (Véhicule privé avec chauffeur et guide pour 6 jours)",
+      "symbole": "🚆"
+    },
+    {
+      "titre": "Budget repas:",
+      "legende": "240€/pers (Repas dans des restaurants locaux et hôtels 3 étoiles pour 6 jours)",
+      "symbole": "🥗"
+    },
+    {
+      "titre": "Budget logement:",
+      "legende": "720€/pers (Hébergement en hôtels 3 étoiles pour 6 nuits)",
+      "symbole": "🛏️"
+    },
+    {
+      "titre": "Budget activités:",
+      "legende": "690€/pers (Frais de développement durable (SDF) 600$ USD pour 6 nuits + entrées sites)",
+      "symbole": "🎭"
+    }
+  ],
+  "periodes_ideales": [
+    {
+      "titre": "Les périodes idéales pour ce séjour sont les mois de Mars à Mai et de Septembre à Novembre, offrant un climat agréable et des vues dégagées.",
+      "symbole": "🍁"
+    },
+    {
+      "titre": "Janvier est la saison sèche et froide, avec des journées ensoleillées mais des nuits glaciales. Les vues sur l'Himalaya sont souvent très claires.",
+      "symbole": "❄️"
+    }
+  ],
+  "infos_pratiques": [
+    {
+      "titre": "Le Bhoutan est le seul pays au monde à mesurer son succès par le Bonheur National Brut (BNB), plutôt que par le Produit Intérieur Brut (PIB).",
+      "symbole": "😊"
+    },
+    {
+      "titre": "La population bhoutanaise est majoritairement bouddhiste, avec une forte influence du bouddhisme Vajrayana. Le respect des traditions est primordial.",
+      "symbole": "🙏"
+    },
+    {
+      "titre": "Le Bhoutan est le seul pays au monde à être \"carbone négatif\", absorbant plus de CO2 qu'il n'en émet, grâce à sa couverture forestière de plus de 70%.",
+      "symbole": "🌳"
+    },
+    {
+      "titre": "Il est obligatoire de voyager avec un guide local agréé et de payer une taxe journalière (SDF) qui contribue au développement durable du pays.",
+      "symbole": "🛂"
+    }
+  ],
+  "liens_utiles": [
+    {
+      "legende": "Informations officielles sur le tourisme au Bhoutan",
+      "titre": "Tourism Council of Bhutan",
+      "url": "https://www.bhutan.travel/",
+      "symbole": "📘"
+    },
+    {
+      "legende": "Compagnie aérienne nationale du Bhoutan",
+      "titre": "Drukair",
+      "url": "https://www.drukair.com.bt/",
+      "symbole": "✈️"
+    },
+    {
+      "legende": "Prévisions météo pour le Bhoutan",
+      "titre": "AccuWeather Bhutan",
+      "url": "https://www.accuweather.com/en/bt/bhutan-weather",
+      "symbole": "🌤️"
+    }
+  ]
+}
